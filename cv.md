@@ -73,15 +73,19 @@ class Apple {
 ```
 ### Experience
 
+* [Rock-Paper-Scissors game (Java)](https://github.com/proboynick/rockpaperscisors.git) - Simple game project, which shows my OOP-skills and work with HMAC-SHA256 hashing. 
+* [Game of Life simulator (Java)](https://github.com/proboynick/GameOfLife.git) - Simple Game of Life simulator project, which shows my OOP-skills in Java.
+* [GildedRose (Java)](https://github.com/proboynick/GildedRose.git) - My GildedRose demo project, which shows my refactoring skills in Java.
+
 ### Education
 
 * __High education:__ BSUIR, department of metrology (master)
 * __Courses:__ 
     * [JavaGuru (Java Basics)](https://javaguru.lv/)
-    * [HTML5/CSS3](https://ru.code-basics.com/languages/html)
+    * [HTML5/CSS3 Basics](https://ru.code-basics.com/languages/html)
 * __Selfeducation:__ Git
 
-###Languages
+### Languages
 
 * __Russian__ - native speaker
 * __English__ - pre-intermediate (I'm improving my skill at the moment)
