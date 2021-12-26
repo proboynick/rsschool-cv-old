@@ -1,3 +1,4 @@
+___
 ## Anton Kuziukou
 ![personal photo](https://avatars.githubusercontent.com/u/79600527?s=400&u=aaefaa75a1cdf66e7e09d9681ace0523dfcd067e&v=4)
 
@@ -28,7 +29,7 @@ __My soft skills:__
 * HTML5, CSS3 Basics
 * JavaScript Basics 
 * VS Code, IntelliJ IDEA
-
+___
 ### Code examples
 
 __JavaScript:__
@@ -71,6 +72,7 @@ class Apple {
     }
 }
 ```
+___
 ### Experience
 
 * [Rock-Paper-Scissors game (Java)](https://github.com/proboynick/rockpaperscisors.git) - Simple game project, which shows my OOP-skills and work with HMAC-SHA256 hashing. 
@@ -90,3 +92,4 @@ class Apple {
 * __Russian__ - native speaker
 * __English__ - pre-intermediate (I'm improving my skill at the moment)
 * __Italian__ - pre-intermediate
+___
