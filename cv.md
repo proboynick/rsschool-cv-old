@@ -29,7 +29,9 @@ __My soft skills:__
 * HTML5, CSS3 Basics
 * JavaScript Basics 
 * VS Code, IntelliJ IDEA
+
 ___
+
 ### Code examples
 
 __JavaScript:__
@@ -92,4 +94,5 @@ ___
 * __Russian__ - native speaker
 * __English__ - pre-intermediate (I'm improving my skill at the moment)
 * __Italian__ - pre-intermediate
+
 ___
