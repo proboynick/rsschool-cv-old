@@ -30,7 +30,7 @@ __My soft skills:__
 * JavaScript Basics 
 * VS Code, IntelliJ IDEA
 
-___
+---
 
 ### Code examples
 
@@ -94,5 +94,3 @@ ___
 * __Russian__ - native speaker
 * __English__ - pre-intermediate (I'm improving my skill at the moment)
 * __Italian__ - pre-intermediate
-
-___
