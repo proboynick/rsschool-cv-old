@@ -1,3 +1,133 @@
-.background{
-    background-color: aqua;
+*{
+    box-sizing: border-box;
 }
+
+html {
+    scroll-behavior: smooth; 
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 0;
+    border: 1px solid black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: black;
+  }
+
+header{
+    background-color: #829985;
+}
+
+main {
+    display: block;
+    margin-bottom: auto;
+}
+
+footer{
+    background-color: #829985;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+  }
+
+  .nav-link {
+    position: relative;
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+    transition: color 0.3s;
+  }
+
+  .nav-link::after {
+    content: "";
+    position: absolute;
+    left: 12px;
+    bottom: -5px;
+    width: calc(100% - 24px);
+    height: 3px;
+    background-color: #fff;
+    opacity: 0;
+    transition: .5s;
+  }
+  
+  .nav-link:hover::after {
+    opacity: 1;
+    animation-name: slidein;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes slidein {
+    from {
+      width: 0;
+    }
+    to {
+      width: calc(100% - 24px);
+    }
+  }
+
+  .section-item a {
+    color: #829985;
+    text-decoration: none;  
+    transition: color 0.5s;
+  }
+
+  .section-item a:hover {
+    color: #4d2323;
+  }
+
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .section {
+    width: calc(50% - 10px);
+    border-bottom: 1px solid black;
+  }
+
+  .section-profile {
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+      flex-wrap: wrap;
+  }
+
+  .section-title {
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #829985;
+}
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+  .pre {
+    display: flex;
+    padding: 0;
+    margin: 0;
+  }
