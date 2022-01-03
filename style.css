@@ -30,9 +30,7 @@ header{
     margin-bottom: auto;
 }
 
-footer{
-    display: flex;
-    justify-content: space-around; 
+footer{ 
     background-color: #363636;
     opacity: 70%;
 }
@@ -146,4 +144,15 @@ footer{
     height: 300px;
     object-fit: cover;
     border-radius: 0%;
+  }
+
+  .footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+  }
+
+  .contacts-list {
+    list-style: none;
   }
